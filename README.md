@@ -1,5 +1,5 @@
 # Supermarket Sales Exploratory Data Analysis 🛒
-### Overview
+## Overview
 This repository contains an exploratory data analysis of supermarket sales data across three branches, analyzing customer behavior, product performance, and sales patterns to derive actionable business insights.
 ## Introduction
 In today's competitive retail environment, an in-depth understanding of sales data is vital for informed business decisions. This project evaluates the sales performance of a supermarket company across multiple dimensions - from identifying the highest-performing branch to assessing popular products and examining customer satisfaction.
@@ -11,13 +11,13 @@ Naypyitaw (Branch C)
 
 Data Analysis Process
 The analysis follows these key steps:
-1. Data Cleaning and Preprocessing
+### 1. Data Cleaning and Preprocessing
 
 Data validation and cleaning
 Feature extraction (day, month, year from date)
 Data type conversions and formatting
 
-2. Exploratory Analysis
+### 2. Exploratory Analysis
 
 Univariate Analysis
 
@@ -40,7 +40,7 @@ Patterns between sales, customer ratings, and time factors
 
 
 
-3. Business Questions Addressed
+### 3. Business Questions Addressed
 The analysis answers key business questions including:
 
 What was the total amount of sales?
