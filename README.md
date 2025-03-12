@@ -19,21 +19,21 @@ Data type conversions and formatting
 
 ### 2. Exploratory Analysis
 
-Univariate Analysis
+Univariate Analysis:
 
 Customer rating distribution
 Payment method preferences
 Product category distribution
 
 
-Bivariate Analysis
+Bivariate Analysis:
 
 Sales performance by month
 Gross income by city
 Product line performance by branch
 
 
-Correlation Analysis
+Correlation Analysis:
 
 Relationships between numerical variables
 Patterns between sales, customer ratings, and time factors
