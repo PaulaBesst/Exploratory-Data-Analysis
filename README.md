@@ -1,7 +1,7 @@
-##Supermarket Sales Exploratory Data Analysis 🛒
-Overview
+# Supermarket Sales Exploratory Data Analysis 🛒
+### Overview
 This repository contains an exploratory data analysis of supermarket sales data across three branches, analyzing customer behavior, product performance, and sales patterns to derive actionable business insights.
-Introduction
+## Introduction
 In today's competitive retail environment, an in-depth understanding of sales data is vital for informed business decisions. This project evaluates the sales performance of a supermarket company across multiple dimensions - from identifying the highest-performing branch to assessing popular products and examining customer satisfaction.
 The dataset includes historical sales data covering a three-month period (January to March 2019) from three branches of the supermarket company located in different cities:
 
