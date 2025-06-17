@@ -52,13 +52,14 @@ Which product line should the supermarket focus on?
 Which city should be chosen for expansion and which products should it focus on?
 
 Technologies Used
-
+---
 Python
 Pandas for data manipulation
 Matplotlib and Seaborn for data visualization
 Jupyter Notebooks for interactive analysis
 
 Key Findings
+---
 The analysis reveals patterns in customer behavior, product preferences, and operational efficiency across the three branches. Detailed insights and recommendations can be found in the notebooks.
 Future Work
 Potential extensions to this analysis include:
@@ -68,6 +69,8 @@ Customer segmentation analysis
 Market basket analysis to identify product associations
 
 Getting Started
-
+---
 Clone this repository
 Navigate to the notebooks directory to explore the analysis
+
+**If you found this project helpful, please give it a star!** 
